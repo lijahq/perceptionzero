@@ -11,3 +11,4 @@ Use these rules when updating `/home/runner/work/perceptionzero/perceptionzero/s
 - Date format: `Month Day Year`
 - Example: `July 9 2026`
 - Do not include weekday in previous show dates.
+- Include a location in `show-event` when one is known (for example, `Duffys` should use `(Lincoln, NE)`).
